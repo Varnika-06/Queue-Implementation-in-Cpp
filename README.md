@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Objective
+##  Objective
 To study and implement the concept of a **Queue using Array in C++**, and perform basic operations:  
 - Insertion (Enqueue)  
 - Deletion (Dequeue)  
@@ -13,7 +13,7 @@ To study and implement the concept of a **Queue using Array in C++**, and perfor
 
 ---
 
-## 📖 Theory
+##  Theory
 A **Queue** is a linear data structure that follows the **FIFO (First In, First Out)** principle.  
 - **Enqueue** → Insert an element at the rear end.  
 - **Dequeue** → Remove an element from the front end.  
@@ -32,7 +32,7 @@ In this experiment, we implement a **static queue** using arrays of fixed size.
 
 ---
 
-## 📝 Algorithm
+##  Algorithm
 
 1. **Start Program**.  
 2. Define a class `Queue` with:  
@@ -53,7 +53,7 @@ In this experiment, we implement a **static queue** using arrays of fixed size.
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 From this experiment, we learned:  
 - The working of a **queue** using arrays.  
 - Implementation of **enqueue, dequeue, and display** operations.  
